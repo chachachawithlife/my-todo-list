@@ -1,0 +1,16 @@
+.todolist {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.remove {
+    margin-left: 10px;
+}
+
+.list {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
